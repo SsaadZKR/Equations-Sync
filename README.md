@@ -1,29 +1,43 @@
+<div align="center">
+
 # EquationSync
 
-A small browser game that combines rhythm and math.
+**Think fast. Follow the beat. Solve the equation.**
 
-Solve equations and follow the beat. The game includes different difficulty levels, sound effects, and score tracking.
+A tiny rhythm-meets-math browser game.
 
-## Play
+[▶ Play the game](https://saad-zz.itch.io/equationsync)
 
-[Play EquationSync on itch.io](https://saad-zz.itch.io/equationsync)
-
-## Controls
-
-- **D, F, J, K** — game input keys
-
-## Features
-
-- Equations mode
-- Easy, Normal, and Hard difficulties
-- Music and sound effects
-- Score and combo system
-
-## Run locally
-
-1. Download or clone this repository.
-2. Open the HTML file in your browser.
+</div>
 
 ---
 
-Made by [SsaadZKR](https://github.com/SsaadZKR).
+## About
+
+EquationSync mixes quick math challenges with rhythm-game style inputs. Solve equations, keep up with the beat, and build your score.
+
+## Features
+
+- **Equation mode** — solve math challenges
+- **3 difficulty levels** — Easy, Normal, and Hard
+- **Rhythm controls** — play using D, F, J, and K
+- **Score & combos** — keep your streak going
+- **Sound effects & music**
+
+## How to play
+
+Use the **D · F · J · K** keys when prompted, and solve the equations as they appear.
+
+## Run it locally
+
+1. Clone or download this repository.
+2. Open the game's HTML file in your browser.
+3. Play!
+
+---
+
+<div align="center">
+
+Made with care by [SsaadZKR](https://github.com/SsaadZKR)
+
+</div>
